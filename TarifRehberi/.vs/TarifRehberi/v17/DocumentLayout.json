@@ -1,0 +1,396 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|c:\\users\\guner\\onedrive\\masa\u00FCst\u00FC\\tarifrehberi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\veritaban\u0131_servisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:veritaban\u0131_servisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\yemektarifleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:yemektarifleri.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form3.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F18D9E67-28AF-4B4B-ACDE-E82810926BFA}|TarifRehberi.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:33:22.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form9.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form9.cs",
+              "RelativeDocumentMoniker": "Form9.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form9.cs",
+              "RelativeToolTip": "Form9.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:15:02.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form9.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form9.cs",
+              "RelativeDocumentMoniker": "Form9.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form9.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form9.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:15:01.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form8.cs",
+              "RelativeDocumentMoniker": "Form8.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form8.cs",
+              "RelativeToolTip": "Form8.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:14:58.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form8.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form8.cs",
+              "RelativeDocumentMoniker": "Form8.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form8.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form8.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:14:56.832Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form7.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form7.cs",
+              "RelativeDocumentMoniker": "Form7.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form7.cs",
+              "RelativeToolTip": "Form7.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:14:53.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form7.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form7.cs",
+              "RelativeDocumentMoniker": "Form7.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form7.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form7.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:14:51.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form6.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form6.cs",
+              "RelativeToolTip": "Form6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:14:47.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form6.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form6.cs",
+              "RelativeDocumentMoniker": "Form6.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form6.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form6.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:14:45.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form5.cs",
+              "RelativeToolTip": "Form5.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAD4vxwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:14:43.423Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form5.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form5.cs",
+              "RelativeDocumentMoniker": "Form5.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form5.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form5.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:14:41.606Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form4.cs",
+              "RelativeToolTip": "Form4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJ0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:14:35.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form4.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form4.cs",
+              "RelativeDocumentMoniker": "Form4.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form4.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form4.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:14:32.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Veritaban\u0131_Servisi.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Veritaban\u0131_Servisi.cs",
+              "RelativeDocumentMoniker": "Veritaban\u0131_Servisi.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Veritaban\u0131_Servisi.cs",
+              "RelativeToolTip": "Veritaban\u0131_Servisi.cs",
+              "ViewState": "AQIAADUBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T09:11:18.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form3.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form3.Designer.cs",
+              "RelativeDocumentMoniker": "Form3.Designer.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form3.Designer.cs",
+              "RelativeToolTip": "Form3.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:21:31.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwFoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:20:17.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "YemekTarifleri.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\YemekTarifleri.cs",
+              "RelativeDocumentMoniker": "YemekTarifleri.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\YemekTarifleri.cs",
+              "RelativeToolTip": "YemekTarifleri.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAACAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:57:44.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form2.cs",
+              "RelativeToolTip": "Form2.cs",
+              "ViewState": "AQIAAI0AAAAAAAAAAAAWwIMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:21:10.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:21:26.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form2.cs",
+              "RelativeDocumentMoniker": "Form2.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:21:09.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form3.cs",
+              "RelativeDocumentMoniker": "Form3.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form3.cs",
+              "RelativeToolTip": "Form3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAL8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:21:27.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form2.Designer.cs",
+              "RelativeToolTip": "Form2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:21:14.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:20:21.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\guner\\OneDrive\\Masa\u00FCst\u00FC\\TarifRehberi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-27T22:20:15.706Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
